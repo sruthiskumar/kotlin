@@ -1,0 +1,9 @@
+- Developed at Jetbrains
+- Statically typed language (type of a variable is known at compile-time instead of at run-time)
+- Targets: JVM
+- lower camel case for names
+- Types in UPPERCASE
+- semi colon is optional
+- Multiple classes per file
+- Fully interoperable with Java
+- Main is a special function in kotlin which would be the entry point
